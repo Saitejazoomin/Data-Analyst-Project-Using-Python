@@ -1,8 +1,8 @@
-# 📊 Data Analyst Python Project
+#  Data Analyst Python Project
 
 This project is a comprehensive Data Analysis pipeline using Python. It includes data cleaning, exploration, visualization, and basic statistical insights. Built for portfolio demonstration and learning purposes.
 
-## 📌 Project Overview
+##  Project Overview
 
 - 🔍 Exploratory Data Analysis (EDA)
 - 🧹 Data Cleaning
@@ -10,7 +10,7 @@ This project is a comprehensive Data Analysis pipeline using Python. It includes
 - 📊 Correlation and Statistical Summary
 - 🐍 Tools used: Python (pandas, matplotlib, seaborn, numpy)
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python**
 - **Jupyter Notebook**
